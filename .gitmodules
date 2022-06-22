@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ROCFTP.MMS"]
+	path = ROCFTP.MMS
+	url = https://github.com/nabipoor/rocftp.mms
+	shallow = true
+	registered = true
